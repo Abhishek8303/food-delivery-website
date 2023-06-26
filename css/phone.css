@@ -1,0 +1,35 @@
+/* navigation */
+body{
+    background-color: brown;
+}
+#navbar{
+    flex-direction: column;
+}
+
+
+/* home section  */
+
+
+
+
+
+
+/* services section  */
+#services{
+    flex-direction: columns;
+}
+
+
+
+
+/* client section  */
+
+clients{
+    overflow: hidden;
+}
+
+/* contect us section */
+
+
+
+/* footer  */
